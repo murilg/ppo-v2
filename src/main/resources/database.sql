@@ -1,3 +1,5 @@
+-- ОСНОВНАЯ СХЕМА БД
+
 drop table if exists permission, users, seller, buyer, category, good cascade;
 
 create table permission

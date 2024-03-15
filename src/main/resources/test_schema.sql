@@ -1,3 +1,5 @@
+-- ДЛЯ ТЕСТИРОВАНИЯ
+
 drop table if exists permission_id, users_id, seller, buyer cascade;
 
 create table permission_id
